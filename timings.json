@@ -1,0 +1,31 @@
+{
+  "commit": "e580755201ba5fe2b47b3cd3105f9a0d0e067ae0",
+  "startedAt": "2026-10-22T13:13:20.999Z",
+  "unit": "milliseconds",
+  "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+  "pairings": [
+    {
+      "pairing": 1,
+      "elapsedMs": 1122
+    },
+    {
+      "pairing": 2,
+      "elapsedMs": 991
+    },
+    {
+      "pairing": 3,
+      "elapsedMs": 978
+    },
+    {
+      "pairing": 4,
+      "elapsedMs": 1052
+    },
+    {
+      "pairing": 5,
+      "elapsedMs": 1000
+    }
+  ],
+  "worstMs": 1122,
+  "criterionMs": 30000,
+  "pass": true
+}

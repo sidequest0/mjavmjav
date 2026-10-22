@@ -1,0 +1,423 @@
+{
+  "startedAt": "2026-10-22T13:13:20.999Z",
+  "commit": "e580755201ba5fe2b47b3cd3105f9a0d0e067ae0",
+  "pairings": [
+    {
+      "iteration": 1,
+      "elapsedMs": 1122,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 1,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 1,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "iteration": 2,
+      "elapsedMs": 991,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 2,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 2,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "iteration": 3,
+      "elapsedMs": 978,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 3,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 3,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "iteration": 4,
+      "elapsedMs": 1052,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 4,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 4,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "iteration": 5,
+      "elapsedMs": 1000,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 5,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 5,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-22T13:13:21.672Z",
+      "event": "cached-reload",
+      "label": "host",
+      "document": "914627da-3c39-4eda-b6db-98c247574740"
+    },
+    {
+      "at": "2026-10-22T13:13:22.263Z",
+      "event": "cached-reload",
+      "label": "guest",
+      "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+    },
+    {
+      "at": "2026-10-22T13:13:22.264Z",
+      "event": "pair-start",
+      "iteration": 1
+    },
+    {
+      "at": "2026-10-22T13:13:23.920Z",
+      "event": "pair-connected",
+      "iteration": 1,
+      "elapsedMs": 1122,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 1,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 1,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-22T13:13:23.920Z",
+      "event": "full-game-start"
+    },
+    {
+      "at": "2026-10-22T13:13:57.722Z",
+      "event": "full-game-complete",
+      "result": "Both cats got bonked after three played turns; terminal round-over on both screens"
+    },
+    {
+      "at": "2026-10-22T13:13:57.856Z",
+      "event": "real-drop-start"
+    },
+    {
+      "at": "2026-10-22T13:13:57.882Z",
+      "event": "real-drop-both-shown"
+    },
+    {
+      "at": "2026-10-22T13:13:57.972Z",
+      "event": "pair-start",
+      "iteration": 2
+    },
+    {
+      "at": "2026-10-22T13:13:59.452Z",
+      "event": "pair-connected",
+      "iteration": 2,
+      "elapsedMs": 991,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 2,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 2,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-22T13:13:59.453Z",
+      "event": "real-drop-start"
+    },
+    {
+      "at": "2026-10-22T13:13:59.502Z",
+      "event": "real-drop-both-shown"
+    },
+    {
+      "at": "2026-10-22T13:13:59.624Z",
+      "event": "pair-start",
+      "iteration": 3
+    },
+    {
+      "at": "2026-10-22T13:14:01.103Z",
+      "event": "pair-connected",
+      "iteration": 3,
+      "elapsedMs": 978,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 3,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 3,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-22T13:14:01.104Z",
+      "event": "real-drop-start"
+    },
+    {
+      "at": "2026-10-22T13:14:01.147Z",
+      "event": "real-drop-both-shown"
+    },
+    {
+      "at": "2026-10-22T13:14:01.317Z",
+      "event": "pair-start",
+      "iteration": 4
+    },
+    {
+      "at": "2026-10-22T13:14:02.906Z",
+      "event": "pair-connected",
+      "iteration": 4,
+      "elapsedMs": 1052,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 4,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 4,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-22T13:14:02.907Z",
+      "event": "real-drop-start"
+    },
+    {
+      "at": "2026-10-22T13:14:02.944Z",
+      "event": "real-drop-both-shown"
+    },
+    {
+      "at": "2026-10-22T13:14:03.051Z",
+      "event": "pair-start",
+      "iteration": 5
+    },
+    {
+      "at": "2026-10-22T13:14:04.556Z",
+      "event": "pair-connected",
+      "iteration": 5,
+      "elapsedMs": 1000,
+      "measure": "guest first scan click through both connected UI states; includes reply QR screenshot/file conversion, second scan and browser assertion overhead",
+      "peers": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 5,
+          "tracksEnded": true,
+          "document": "914627da-3c39-4eda-b6db-98c247574740"
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ],
+          "cameraRequests": 5,
+          "tracksEnded": true,
+          "document": "c12357ca-f9ea-4729-9acc-a313a8a0b871"
+        }
+      ]
+    },
+    {
+      "at": "2026-10-22T13:14:04.872Z",
+      "event": "chromium-complete",
+      "worstMs": 1122
+    }
+  ],
+  "browsers": {
+    "host": {
+      "version": "153.0.8010.12",
+      "profile": "Pixel 7"
+    },
+    "guest": {
+      "version": "153.0.8010.12",
+      "profile": "Pixel 7"
+    }
+  },
+  "policy": "After caching and reload, abort every HTTP request (including local); ICE servers [] throughout. Native Chromium getUserMedia with file-backed fake camera, no scanner or SDP injection.",
+  "worstMs": 1122
+}

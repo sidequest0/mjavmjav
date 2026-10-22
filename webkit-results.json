@@ -1,0 +1,115 @@
+{
+  "startedAt": "2026-10-22T13:20:38.886Z",
+  "commit": "e580755201ba5fe2b47b3cd3105f9a0d0e067ae0",
+  "events": [
+    {
+      "event": "cached-reload",
+      "at": "2026-10-22T13:20:39.686Z",
+      "label": "Android Chromium",
+      "version": "153.0.8010.12",
+      "profile": "Pixel 7"
+    },
+    {
+      "event": "cached-reload",
+      "at": "2026-10-22T13:20:40.645Z",
+      "label": "iPhone WebKit",
+      "version": "26.6",
+      "profile": "iPhone 15"
+    },
+    {
+      "event": "native-webkit-camera",
+      "at": "2026-10-22T13:20:40.763Z",
+      "settings": [
+        {
+          "label": "Mock video device 2",
+          "settings": {
+            "aspectRatio": 1.3333333333333333,
+            "backgroundBlur": true,
+            "deviceId": "2CAE67931C390CC015981F3C16A7A24F04D4866C",
+            "facingMode": "environment",
+            "frameRate": 30,
+            "groupId": "6E4BF50137BB71333B62D54B7481D6400AAF2520",
+            "height": 480,
+            "powerEfficient": false,
+            "torch": false,
+            "whiteBalanceMode": "none",
+            "width": 640,
+            "zoom": 1
+          }
+        }
+      ],
+      "ended": true
+    },
+    {
+      "event": "webkit-scanner-decoded-offer-displayed-reply",
+      "at": "2026-10-22T13:20:42.056Z",
+      "camera": "canvas stream containing other browser displayed-size QR; native WebKit camera separately acquired and stopped",
+      "noHorizontalOverflow": true
+    },
+    {
+      "event": "mixed-connection-open",
+      "at": "2026-10-22T13:20:42.855Z",
+      "gathered": [
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": true
+            }
+          ]
+        },
+        {
+          "iceServers": [],
+          "candidates": [
+            {
+              "type": "host",
+              "mdns": false
+            }
+          ]
+        }
+      ],
+      "result": "Actual Chromium-WebKit data channel opened in two separate browser processes in this image."
+    },
+    {
+      "event": "mixed-full-game-complete",
+      "at": "2026-10-22T13:21:17.224Z"
+    },
+    {
+      "event": "mixed-real-drop-both-shown",
+      "at": "2026-10-22T13:21:17.307Z"
+    },
+    {
+      "event": "webkit-reset-and-offer",
+      "at": "2026-10-22T13:21:18.114Z",
+      "qrWidth": 360
+    },
+    {
+      "event": "webkit-complete",
+      "at": "2026-10-22T13:21:18.317Z"
+    }
+  ],
+  "nativeCamera": {
+    "settings": [
+      {
+        "label": "Mock video device 2",
+        "settings": {
+          "aspectRatio": 1.3333333333333333,
+          "backgroundBlur": true,
+          "deviceId": "2CAE67931C390CC015981F3C16A7A24F04D4866C",
+          "facingMode": "environment",
+          "frameRate": 30,
+          "groupId": "6E4BF50137BB71333B62D54B7481D6400AAF2520",
+          "height": 480,
+          "powerEfficient": false,
+          "torch": false,
+          "whiteBalanceMode": "none",
+          "width": 640,
+          "zoom": 1
+        }
+      }
+    ],
+    "ended": true
+  },
+  "ok": true
+}
